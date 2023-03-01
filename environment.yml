@@ -1,7 +1,6 @@
 name: app_deploy
 channels:
   - conda-forge
-  - defaults
 dependencies:
   - anyio=3.6.2
   - argon2-cffi=21.3.0
