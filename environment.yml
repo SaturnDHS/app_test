@@ -1,10 +1,13 @@
 name: app_deploy
 channels:
   - defaults
+  - conda-forge
+  - pyviz
 dependencies:
   - voila
   - panel
   - pandas
   - plotly
   - numpy
+  -jupyter-panel-proxy
 prefix: C:\Users\Matheus\.conda\envs\app_deploy
