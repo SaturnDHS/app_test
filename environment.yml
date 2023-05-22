@@ -8,4 +8,15 @@ dependencies:
   - plotly
   - jupyter-panel-proxy
   - ipykernel
+  - matplotlib
+  - PIL
+  - bokeh
+  - base64
+  - time
+  - os
+  - datetime
+  - numpy
+  - io
+  - param
 prefix: C:\Users\Matheus\.conda\envs\app_deploy
+
